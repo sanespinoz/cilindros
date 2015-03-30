@@ -1,0 +1,17 @@
+{
+  "name": "Cilindros",
+  "version": "0.0.1",
+  "description": "Paquete de frontend para el proyecto cilindros",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Sandra Espinoza"
+  ],
+  "license": "MIT",
+  "homepage": "localhost/cilindros/public",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-material-design":"~0.3.0"
+  }
+}
